@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Raza_chat_option_ringcellTableViewCellID" id="KGk-i7-Jjw" customClass="Raza_chat_option_ringcellTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <frame key="frameInset" width="320" height="49"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="chat_ringtone.png" translatesAutoresizingMaskIntoConstraints="NO" id="Tsd-gT-xWg">
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="Tsd-gT-xWg" secondAttribute="height" multiplier="1:1" id="0me-X7-eyJ"/>
+                            <constraint firstAttribute="width" constant="30" id="fB1-N1-V4P"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IGP-5w-2l7">
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.83999999999999997" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="used_wallpaper.png" translatesAutoresizingMaskIntoConstraints="NO" id="Y8s-gY-9rj">
+                        <frame key="frameInset" minY="13" width="34" height="22" maxX="50"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Tsd-gT-xWg" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-1" id="3dp-TH-9OI"/>
+                    <constraint firstItem="Tsd-gT-xWg" firstAttribute="centerY" secondItem="IGP-5w-2l7" secondAttribute="centerY" id="Dsq-8B-3kV"/>
+                    <constraint firstItem="IGP-5w-2l7" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="3" id="P0P-ve-Vbo"/>
+                    <constraint firstItem="Tsd-gT-xWg" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="4" id="WhG-6E-jOZ"/>
+                    <constraint firstItem="IGP-5w-2l7" firstAttribute="leading" secondItem="Tsd-gT-xWg" secondAttribute="trailing" constant="11" id="drz-Iw-9JE"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="imgicon" destination="Y8s-gY-9rj" id="c8g-1s-uCu"/>
+                <outlet property="lbl" destination="IGP-5w-2l7" id="25v-at-HjU"/>
+            </connections>
+            <point key="canvasLocation" x="91" y="230"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="chat_ringtone.png" width="26" height="26"/>
+        <image name="used_wallpaper.png" width="128" height="128"/>
+    </resources>
+</document>

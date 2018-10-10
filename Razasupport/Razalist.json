@@ -1,0 +1,1182 @@
+{
+  "countries": [
+    {
+      "code": "+93",
+      "name": "Afghanistan",
+      "city": "Kabul"
+    },
+    {
+      "code": "+355",
+      "name": "Albania",
+      "city": "Tirana"
+    },
+    {
+      "code": "+213",
+      "name": "Algeria",
+      "city": "Algiers"
+    },
+    {
+      "code": "+1 684",
+      "name": "American Samoa",
+      "city": "Pago Pago"
+    },
+    {
+      "code": "+376",
+      "name": "Andorra",
+      "city": "Andorra la Vella"
+    },
+    {
+      "code": "+244",
+      "name": "Angola",
+      "city": "Luanda"
+    },
+    {
+      "code": "+1264",
+      "name": "Anguilla",
+      "city": "The Valley"
+    },
+    {
+      "code": "+1268",
+      "name": "Antigua and Barbuda",
+      "city": "St. John's"
+    },
+    {
+      "code": "+54",
+      "name": "Argentina",
+      "city": "Buenos Aires"
+    },
+    {
+      "code": "+374",
+      "name": "Armenia",
+      "city": "Yerevan"
+    },
+    {
+      "code": "+297",
+      "name": "Aruba",
+      "city": "Oranjestad"
+    },
+    {
+      "code": "+247",
+      "name": "Ascension island",
+      "city": "Gough_Island"
+    },
+    {
+      "code": "+61",
+      "name": "Australia",
+      "city": "Canberra"
+    },
+    {
+      "code": "+43",
+      "name": "Austria",
+      "city": "Vienna"
+    },
+    {
+      "code": "+994",
+      "name": "Azerbaijan",
+      "city": "Baku"
+    },
+    {
+      "code": "+1242",
+      "name": "Bahamas",
+      "city": "Nassau"
+    },
+    {
+      "code": "+973",
+      "name": "Bahrain",
+      "city": "Manama"
+    },
+    {
+      "code": "+880",
+      "name": "Bangladesh",
+      "city": "Dhaka"
+    },
+    {
+      "code": "+1246",
+      "name": "Barbados",
+      "city": "Bridgetown"
+    },
+    {
+      "code": "+1268",
+      "name": "Barbuda",
+      "city": "St. John's"
+    },
+    {
+      "code": "+375",
+      "name": "Belarus",
+      "city": "Minsk"
+    },
+    {
+      "code": "+32",
+      "name": "Belgium",
+      "city": "Antwerp"
+    },
+    {
+      "code": "+501",
+      "name": "Belize",
+      "city": "Belmopan"
+    },
+    {
+      "code": "+229",
+      "name": "Benin",
+      "city": "Porto-Novo"
+    },
+    {
+      "code": "+1 441",
+      "name": "Bermuda",
+      "city": "Hamilton"
+    },
+    {
+      "code": "+975",
+      "name": "Bhutan",
+      "city": "Thimphu"
+    },
+    {
+      "code": "+591",
+      "name": "Bolivia",
+      "city": "Oruro"
+                
+    },
+    {
+      "code": "+387",
+      "name": "Bosnia and Herzegovina",
+      "city": "Sarajevo"
+    },
+    {
+      "code": "+267",
+      "name": "Botswana",
+      "city": "Gaborone"
+    },
+    {
+      "code": "+55",
+      "name": "Brazil",
+      "city": "Brasileia"
+                
+    },
+    {
+                
+      "code": "+246",
+      "name": "British Indian Ocean",
+      "city": "Diego_Garcia"
+    },
+    {
+      "code": "+1284",
+      "name": "British Virgin Islands",
+      "city": "Road Town"
+    },
+    {
+      "code": "+673",
+      "name": "Brunei",
+      "city": "Bandar Seri Begawan"
+    },
+    {
+      "code": "+359",
+      "name": "Bulgaria",
+      "city": "Sofia"
+    },
+    {
+      "code": "+226",
+      "name": "Burkina Faso",
+      "city": "Ouagadougou"
+    },
+    {
+      "code": "+257",
+      "name": "Burundi",
+      "city": "Bujumbura"
+    },
+    {
+      "code": "+855",
+      "name": "Cambodia",
+      "city": "Phnom Penh"
+    },
+    {
+      "code": "+237",
+      "name": "cameroon",
+      "city": "Yaounde"
+                
+                
+    },
+    {
+      "code": "+1",
+      "name": "Canada",
+      "city": "Ottawa"
+    },
+    {
+      "code": "+238",
+      "name": "Cape Verde",
+      "city": "Praia"
+    },
+    {
+      "code": "+345",
+      "name": "Cayman Islands",
+      "city": "George Town"
+    },
+    {
+      "code": "+236",
+      "name": "Central African Republic",
+      "city": "Birao"
+               
+    },
+    {
+      "code": "+235",
+      "name": "Chad",
+      "city": "NDjamena"
+    },
+    {
+      "code": "+56",
+      "name": "Chile",
+      "city": "Santiago"
+    },
+    {
+      "code": "+86",
+      "name": "China",
+      "city": "Anchengfang"
+               
+    },
+    {
+      "code": "+61",
+      "name": "Christmas Island",
+      "city": "Christmas_Island"
+                
+    },
+    {
+      "code": "+61",
+      "name": "Cocos Keeling Islands",
+      "city": "West Island, Cocos (Keeling) Islands"
+    },
+    {
+      "code": "+57",
+      "name": "Colombia",
+      "city": "Bogota"
+    },
+    {
+      "code": "+269",
+      "name": "Comoros",
+      "city": "Moroni"
+    },
+    {
+      "code": "+242",
+      "name": "Congo",
+      "city": "Brazzaville"
+    },
+    {
+      "code": "+243",
+      "name": "Democratic Republic of the Congo",
+      "city": "Kinshasa"
+    },
+    {
+      "code": "+682",
+      "name": "Cook Islands",
+      "city": "Avarua"
+    },
+    {
+      "code": "+506",
+      "name": "Costa Rica",
+      "city": "Liberia"
+               
+    },
+    {
+      "code": "+385",
+      "name": "Croatia",
+      "city": "Zagreb"
+    },
+    {
+      "code": "+53",
+      "name": "Cuba",
+      "city": "Havana"
+    },
+    {
+      "code": "+599",
+      "name": "Curacao",
+      "city": "Curacao_Island"
+                
+    },
+    {
+      "code": "+537",
+      "name": "Cyprus",
+      "city": "Nicosia"
+    },
+    {
+      "code": "+420",
+      "name": "Czech Republic",
+      "city": "Prague"
+    },
+    {
+      "code": "+45",
+      "name": "Denmark",
+      "city": "Copenhagen"
+    },
+    {
+      "code": "+246",
+      "name": "Diego Garcia",
+      "city": "British_Indian_Ocean"
+            
+    },
+    {
+      "code": "+253",
+      "name": "Djibouti",
+      "city": "Djibouti"
+    },
+    {
+      "code": "+1767",
+      "name": "Dominica",
+      "city": "Roseau"
+    },
+    {
+      "code": "+1809",
+      "name": "Dominican Republic",
+      "city": "Santo Domingo"
+    },
+    {
+      "code": "+670",
+      "name": "East Timor",
+       "city": "Dili"
+    },
+    {
+      "code": "+56",
+      "name": "Easter_Island",
+      "city": "Chile"
+                
+    },
+    {
+      "code": "+593",
+      "name": "Ecuador",
+      "city": "Quito"
+    },
+    {
+      "code": "+20",
+      "name": "Egypt",
+      "city": "Cairo"
+    },
+    {
+      "code": "+503",
+      "name": "El Salvador",
+      "city": "San Salvador"
+    },
+    {
+      "code": "+240",
+      "name": "Equatorial Guinea",
+      "city": "Malabo"
+    },
+    {
+      "code": "+291",
+      "name": "Eritrea",
+      "city": "Asmara"
+    },
+    {
+      "code": "+372",
+      "name": "Estonia",
+      "city": "Tallinn"
+    },
+    {
+      "code": "+251",
+      "name": "Ethiopia",
+      "city": "Addis Ababa"
+    },
+    {
+      "code": "+500",
+      "name": "Falkland Islands",
+      "city": "Stanley"
+    },
+    {
+      "code": "+298",
+      "name": "Faroe Islands",
+      "city": "Torshavn"
+    },
+    {
+      "code": "+679",
+      "name": "Fiji",
+      "city": "Suva"
+    },
+    {
+      "code": "+358",
+      "name": "Finland",
+      "city": "Helsinki"
+    },
+    {
+      "code": "+33",
+      "name": "France",
+      "city": "Paris"
+    },
+    {
+      "code": "+594",
+      "name": "French Guiana",
+      "city": "Cayenne"
+    },
+    {
+      "code": "+689",
+      "name": "French Polynesia",
+      "city": "Papeete"
+    },
+    {
+      "code": "+241",
+      "name": "Gabon",
+      "city": "Libreville"
+    },
+    {
+      "code": "+220",
+      "name": "Gambia",
+      "city": "Banjul"
+    },
+    {
+      "code": "+995",
+      "name": "Georgia",
+      "city": "Atlanta"
+    },
+    {
+      "code": "+49",
+      "name": "Germany",
+      "city": "Berlin"
+    },
+    {
+      "code": "+233",
+      "name": "Ghana",
+      "city": "Accra"
+    },
+    {
+      "code": "+350",
+      "name": "Gibraltar",
+     "city": "Gibraltar"
+    },
+    {
+      "code": "+30",
+      "name": "Greece",
+      "city": "Athens"
+    },
+    {
+      "code": "+299",
+      "name": "Greenland",
+      "city": "Nuuk"
+    },
+    {
+      "code": "+1473",
+      "name": "Grenada",
+      "city": "St. George's"
+    },
+    {
+      "code": "+590",
+      "name": "Guadeloupe",
+      "city": "Basse-Terre"
+    },
+    {
+      "code": "+1 671",
+      "name": "Guam",
+      "city": "Hagatna"
+    },
+    {
+      "code": "+502",
+      "name": "Guatemala",
+      "city": "Guatemala City"
+    },
+    {
+      "code": "+224",
+      "name": "Guinea",
+     "city": "Conakry"
+    },
+    {
+      "code": "+245",
+      "name": "Guinea Bissau",
+      "city": "Bissau"
+    },
+    {
+      "code": "+595",
+      "name": "Guyana",
+      "city": "Georgetown"
+    },
+    {
+      "code": "+509",
+      "name": "Haiti",
+      "city": "Port-au-Prince"
+    },
+    {
+      "code": "+504",
+      "name": "Honduras",
+      "city": "auka"
+    },
+    {
+      "code": "+852",
+      "name": "Hong Kong",
+      "city": "Hong Kong"
+    },
+    {
+      "code": "+36",
+      "name": "Hungary",
+      "city": "Budapest"
+    },
+    {
+      "code": "+354",
+      "name": "Iceland",
+      "city": "Reykjavik"
+    },
+    {
+      "code": "+91",
+      "name": "India",
+      "city": "New Delhi"
+    },
+    {
+      "code": "+62",
+      "name": "Indonesia",
+      "city": "Jakarta"
+    },
+    {
+      "code": "+98",
+      "name": "Iran",
+      "city": "Kashmar"
+    },
+    {
+      "code": "+964",
+      "name": "Iraq",
+      "city": "Baghdad"
+    },
+    {
+      "code": "+353",
+      "name": "Ireland",
+      "city": "Dublin"
+    },
+    {
+      "code": "+972",
+      "name": "Israel",
+      "city": "Jerusalem"
+    },
+    {
+      "code": "+39",
+      "name": "Italy",
+      "city": "Rome"
+    },
+    {
+      "code": "+225",
+      "name": "Ivory Coast",
+      "city": "Yamoussoukro"
+    },
+    {
+      "code": "+1876",
+      "name": "Jamaica",
+      "city": "Kingston"
+    },
+    {
+      "code": "+81",
+      "name": "Japan",
+      "city": "Tokyo"
+    },
+    {
+      "code": "+962",
+      "name": "Jordan",
+     "city": "Amman"
+    },
+    {
+      "code": "+77",
+      "name": "Kazakhstan",
+      "city": "Pavlodar"
+    },
+    {
+      "code": "+254",
+      "name": "Kenya",
+      "city": "Makindu"
+    },
+    {
+      "code": "+686",
+      "name": "Kiribati",
+      "city": "Bonriki"
+    },
+    {
+      "code": "+965",
+      "name": "Kuwait",
+      "city": "Kuwait City"
+    },
+    {
+      "code": "+996",
+      "name": "Kyrgyzstan",
+     "city": "Bishkek"
+    },
+    {
+      "code": "+856",
+      "name": "Laos",
+      "city": "Vientiane"
+    },
+    {
+      "code": "+371",
+      "name": "Latvia",
+      "city": "Riga"
+    },
+    {
+      "code": "+961",
+      "name": "Lebanon",
+      "city": "Beirut"
+    },
+    {
+      "code": "+266",
+      "name": "Lesotho",
+      "city": "Maseru"
+    },
+    {
+      "code": "+231",
+      "name": "Liberia",
+      "city": "Boikuibli"
+    },
+    {
+      "code": "+218",
+      "name": "Libya",
+      "city": "Tripoli"
+    },
+    {
+      "code": "+423",
+      "name": "Liechtenstein",
+      "city": "Vaduz"
+    },
+    {
+      "code": "+370",
+      "name": "Lithuania",
+      "city": "Vilnius"
+    },
+    {
+      "code": "+352",
+      "name": "Luxembourg",
+     "city": "Luxembourg City"
+    },
+    {
+      "code": "+853",
+      "name": "Macau",
+      "city": "China"
+    },
+    {
+      "code": "+389",
+      "name": "Macedonia",
+      "city": "Alarup"
+    },
+    {
+      "code": "+261",
+      "name": "Madagascar",
+      "city": "Antalaha"
+    },
+    {
+      "code": "+265",
+      "name": "Malawi",
+      "city": "Lilongwe"
+    },
+    {
+      "code": "+60",
+      "name": "Malaysia",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "code": "+960",
+      "name": "Maldives",
+      "city": "Male"
+    },
+    {
+      "code": "+223",
+      "name": "Mali",
+      "city": "Bamako"
+    },
+    {
+      "code": "+356",
+      "name": "Malta",
+      "city": "Valletta"
+    },
+    {
+      "code": "+692",
+      "name": "Marshall Islands",
+      "city": "Majuro"
+    },
+    {
+      "code": "+596",
+      "name": "Martinique",
+      "city": "Fort-de-France"
+    },
+    {
+      "code": "+222",
+      "name": "Mauritania",
+      "city": "Nouakchott"
+    },
+    {
+      "code": "+230",
+      "name": "Mauritius",
+      "city": "Port Louis"
+    },
+    {
+      "code": "+262",
+      "name": "Mayotte",
+     "city": "Mamoudzou"
+    },
+    {
+      "code": "+52",
+      "name": "Mexico",
+      "city": "Mexico City"
+    },
+    {
+      "code": "+691",
+      "name": "Micronesia",
+      "city": "Palikir"
+    },
+    {
+      "code": "+1 808",
+      "name": "Midway Island",
+      "city": "Midway Island"
+    },
+    {
+      "code": "+373",
+      "name": "Moldova",
+      "city": "Moldova"
+    },
+    {
+      "code": "+377",
+      "name": "Monaco",
+      "city": "Monaco"
+    },
+    {
+      "code": "+976",
+      "name": "Mongolia",
+       "city": "Altai"
+    },
+    {
+      "code": "+382",
+      "name": "Montenegro",
+      "city": "Podgorica"
+    },
+    {
+      "code": "+1664",
+      "name": "Montserrat",
+      "city": "Plymouth"
+    },
+    {
+      "code": "+212",
+      "name": "Morocco",
+      "city": "Rabat"
+    },
+    {
+      "code": "+95",
+      "name": "Myanmar",
+       "city": "Naypyidaw"
+    },
+    {
+      "code": "+264",
+      "name": "Namibia",
+       "city": "Windhoek"
+    },
+    {
+      "code": "+674",
+      "name": "Nauru",
+     "city": "Antereen"
+    },
+    {
+      "code": "+977",
+      "name": "Nepal",
+      "city": "Kathmandu"
+    },
+    {
+      "code": "+31",
+      "name": "Netherlands",
+      "city": "Amsterdam"
+    },
+    {
+      "code": "+599",
+      "name": "Netherlands Antilles",
+      "city": "Willemstad"
+    },
+    {
+      "code": "+1869",
+      "name": "Nevis",
+       "city": "Basseterre"
+    },
+    {
+      "code": "+687",
+      "name": "New Caledonia",
+      "city": "Noumea"
+    },
+    {
+      "code": "+64",
+      "name": "New Zealand",
+      "city": "Wellington"
+    },
+    {
+      "code": "+505",
+      "name": "Nicaragua",
+      "city": "Managua"
+    },
+    {
+      "code": "+227",
+      "name": "Niger",
+      "city": "Niamey"
+    },
+    {
+      "code": "+234",
+      "name": "Nigeria",
+      "city": "Abuja"
+    },
+    {
+      "code": "+683",
+      "name": "Niue",
+      "city": "Niue"
+    },
+    {
+      "code": "+672",
+      "name": "Norfolk Island",
+      "city": "Kingston"
+    },
+    {
+      "code": "+850",
+      "name": "North Korea",
+      "city": "Pyongyang"
+    },
+    {
+      "code": "+1670",
+      "name": "Northern Mariana Islands",
+      "city": "Saipan"
+    },
+    {
+      "code": "+47",
+      "name": "Norway",
+      "city": "Oslo"
+    },
+    {
+      "code": "+968",
+      "name": "Oman",
+      "city": "Muscat"
+    },
+    {
+      "code": "+92",
+      "name": "Pakistan",
+     "city": "Karachi"
+    },
+    {
+      "code": "+680",
+      "name": "Palau",
+      "city": "Ngerulmud"
+    },
+    {
+      "code": "+970",
+      "name": "Palestinian Territory",
+       "city": "East Jerusalem"
+    },
+    {
+      "code": "+507",
+      "name": "Panama",
+      "city": "Panama City"
+    },
+    {
+      "code": "+675",
+      "name": "Papua New Guinea",
+       "city": "Port Moresby"
+    },
+    {
+      "code": "+595",
+      "name": "Paraguay",
+      "city": "Asuncion"
+                
+    },
+    {
+      "code": "+51",
+      "name": "Peru",
+      "city": "Cahuish"
+    },
+    {
+      "code": "+63",
+      "name": "Philippines",
+      "city": "amsic"
+    },
+    {
+      "code": "+48",
+      "name": "Poland",
+      "city": "Warsaw"
+    },
+    {
+      "code": "+351",
+      "name": "Portugal",
+       "city": "Lisbon"
+    },
+    {
+      "code": "+1 787",
+      "name": "Puerto Rico",
+      "city": "San Juan"
+    },
+    {
+      "code": "+974",
+      "name": "Qatar",
+      "city": "Doha"
+    },
+    {
+      "code": "+262",
+      "name": "Reunion Island",
+      "city": "La_Riviere"
+    },
+    {
+      "code": "+40",
+      "name": "Romania",
+      "city": "Bucharest"
+    },
+    {
+      "code": "+7",
+      "name": "Russia",
+      "city": "Moscow"
+    },
+    {
+      "code": "+250",
+      "name": "Rwanda",
+       "city": "Kamembe"
+    },
+    {
+      "code": "+685",
+      "name": "Samoa",
+      "city": "Apia"
+    },
+    {
+      "code": "+378",
+      "name": "San Marino",
+      "city": "San Marino"
+    },
+    {
+      "code": "+966",
+      "name": "Saudi Arabia",
+      "city": "Riyadh"
+    },
+    {
+      "code": "+221",
+      "name": "Senegal",
+      "city": "Dakar"
+    },
+    {
+      "code": "+381",
+      "name": "Serbia",
+     "city": "Belgrade"
+    },
+    {
+      "code": "+248",
+      "name": "Seychelles",
+      "city": "Victoria"
+    },
+    {
+      "code": "+232",
+      "name": "Sierra Leone",
+       "city": "Freetown"
+    },
+    {
+      "code": "+65",
+      "name": "Singapore",
+       "city": "Singapore"
+    },
+    {
+      "code": "+421",
+      "name": "Slovakia",
+       "city": "Bratislava"
+    },
+    {
+      "code": "+386",
+      "name": "Slovenia",
+      "city": "Kocevje"
+    },
+    {
+      "code": "+677",
+      "name": "Solomon Islands",
+     "city": "Honiara"
+    },
+    {
+      "code": "+27",
+      "name": "South Africa",
+       "city": "Cape Town"
+    },
+    {
+      "code": "+500",
+      "name": "South Georgia and Sandwich Islands",
+       "city": "King Edward Point"
+    },
+    {
+      "code": "+82",
+      "name": "South Korea",
+       "city": "Seoul"
+    },
+    {
+      "code": "+34",
+      "name": "Spain",
+      "city": "Madrid"
+    },
+    {
+      "code": "+94",
+      "name": "Sri Lanka",
+       "city": "Colombo"
+    },
+    {
+      "code": "+249",
+      "name": "Sudan",
+       "city": "Khartoum"
+    },
+    {
+      "code": "+597",
+      "name": "Suriname",
+       "city": "Paranam"
+    },
+    {
+      "code": "+268",
+      "name": "Swaziland",
+     "city": "Lobamba"
+    },
+    {
+      "code": "+46",
+      "name": "Sweden",
+      "city": "Aboland"
+    },
+    {
+      "code": "+41",
+      "name": "Switzerland",
+       "city": "Bern"
+    },
+    {
+      "code": "+963",
+      "name": "Syria",
+      "city": "Damascus"
+    },
+    {
+      "code": "+886",
+      "name": "Taiwan",
+      "city": "Taipei"
+    },
+    {
+      "code": "+992",
+      "name": "Tajikistan",
+      "city": "Dangara"
+    },
+    {
+      "code": "+255",
+      "name": "Tanzania",
+      "city": "Zanzibar"
+    },
+    {
+      "code": "+66",
+      "name": "Thailand",
+      "city": "Bangkok"
+    },
+    {
+      "code": "+670",
+      "name": "Timor Leste",
+       "city": "Dili"
+    },
+    {
+      "code": "+228",
+      "name": "Togo",
+      "city": "atakpame"
+    },
+    {
+      "code": "+690",
+      "name": "Tokelau",
+      "city": "Nukunonu"
+    },
+    {
+      "code": "+676",
+      "name": "Tonga",
+     "city": "Esia"
+    },
+    {
+      "code": "+1 868",
+      "name": "Trinidad and Tobago",
+      "city": "Tobago"
+    },
+    {
+      "code": "+216",
+      "name": "Tunisia",
+       "city": "Tunis"
+    },
+    {
+      "code": "+90",
+      "name": "Turkey",
+       "city": "Ankara"
+    },
+    {
+      "code": "+993",
+      "name": "Turkmenistan",
+       "city": "Ashgabat"
+    },
+    {
+      "code": "+1 649",
+      "name": "Turks and Caicos Islands",
+      "city": "Cockburn Town"
+    },
+    {
+      "code": "+688",
+      "name": "Tuvalu",
+      "city": "Funafuti"
+    },
+    {
+      "code": "+1340",
+      "name": "U.S. Virgin Islands",
+      "city": "Charlotte Amalie"
+    },
+    {
+      "code": "+256",
+      "name": "Uganda",
+      "city": "Kampala"
+    },
+    {
+      "code": "+380",
+      "name": "Ukraine",
+     "city": "Kiev"
+    },
+    {
+      "code": "+971",
+      "name": "United Arab Emirates",
+       "city": "Abu Dhabi"
+    },
+    {
+      "code": "+44",
+      "name": "United Kingdom",
+      "city": "London"
+    },
+    {
+      "code": "+1",
+      "name": "USA",
+      "city": "Washington, DC"
+    },
+    {
+      "code": "+598",
+      "name": "Uruguay",
+      "city": "Montevideo"
+    },
+    {
+      "code": "+998",
+      "name": "Uzbekistan",
+      "city": "Aknakhodzha"
+    },
+    {
+      "code": "+678",
+      "name": "Vanuatu",
+      "city": "Sola"
+    },
+    {
+      "code": "+58",
+      "name": "Venezuela",
+     "city": "Barquisimeto"
+    },
+    {
+      "code": "+84",
+      "name": "Vietnam",
+      "city": "Hanoi"
+    },
+    {
+      "code": "+1808",
+      "name": "Wake Island",
+      "city": "Wake Island"
+    },
+    {
+      "code": "+681",
+      "name": "Wallis and Futuna",
+       "city": "Mata-Utu"
+    },
+    {
+      "code": "+967",
+      "name": "Yemen",
+      "city": "Sanaa"
+    },
+    {
+      "code": "+260",
+      "name": "Zambia",
+      "city": "Lusaka"
+    },
+    {
+      "code": "+255",
+      "name": "Zanzibar",
+       "city": "Tanzania"
+    },
+    {
+      "code": "+263",
+      "name": "Zimbabwe",
+      "city": "Harare"
+    }
+  ]
+}

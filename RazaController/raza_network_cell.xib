@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SourceSansPro-Bold.ttf">
+            <string>SourceSansPro-Bold</string>
+        </array>
+        <array key="SourceSansPro-Regular.ttf">
+            <string>SourceSansPro-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="customcellofnetwork" rowHeight="209" id="KGk-i7-Jjw" customClass="raza_network_cell">
+            <rect key="frame" x="0.0" y="0.0" width="317" height="186"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="317" height="185.66666666666666"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YbS-32-S9z">
+                        <rect key="frame" x="232" y="79" width="50" height="28"/>
+                        <state key="normal" image="on_switch.png">
+                            <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zim-1L-fqn">
+                        <rect key="frame" x="35" y="25" width="147" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="K1x-rI-bT7"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="SourceSansPro-Bold" family="Source Sans Pro" pointSize="14"/>
+                        <color key="textColor" red="0.043137254899999998" green="0.12549019610000001" blue="0.24313725489999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" horizontalCompressionResistancePriority="749" scrollEnabled="NO" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ORL-EU-en8">
+                        <rect key="frame" x="30" y="45" width="202" height="126"/>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                        <color key="textColor" red="0.043137254899999998" green="0.12549019610000001" blue="0.24313725489999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="18"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="ORL-EU-en8" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="30" id="3ug-qS-IwW"/>
+                    <constraint firstItem="YbS-32-S9z" firstAttribute="leading" secondItem="ORL-EU-en8" secondAttribute="trailing" id="8hj-EO-vWM"/>
+                    <constraint firstItem="ORL-EU-en8" firstAttribute="top" secondItem="Zim-1L-fqn" secondAttribute="bottom" id="CNe-TY-Mbw"/>
+                    <constraint firstItem="Zim-1L-fqn" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="27" id="Gb0-Uc-Era"/>
+                    <constraint firstItem="YbS-32-S9z" firstAttribute="centerY" secondItem="ORL-EU-en8" secondAttribute="centerY" constant="-15" id="Oom-hf-2lc"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="Zim-1L-fqn" secondAttribute="trailing" constant="127" id="W99-3E-FSE"/>
+                    <constraint firstAttribute="bottom" secondItem="ORL-EU-en8" secondAttribute="bottom" constant="15" id="i9i-9Q-ovG"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="YbS-32-S9z" secondAttribute="trailing" constant="27" id="mpH-Rt-z1c"/>
+                    <constraint firstItem="Zim-1L-fqn" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="17" id="qmX-36-SLn"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="tintColor" red="0.10722018033266068" green="0.16700455546379089" blue="0.42601138353347778" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="btnswitch" destination="YbS-32-S9z" id="XRw-gu-7U5"/>
+                <outlet property="lbl_desc" destination="ORL-EU-en8" id="RFX-TH-Egi"/>
+                <outlet property="lbl_name" destination="Zim-1L-fqn" id="fnh-Dh-AJ2"/>
+            </connections>
+            <point key="canvasLocation" x="52.5" y="199"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="on_switch.png" width="50" height="28"/>
+    </resources>
+</document>

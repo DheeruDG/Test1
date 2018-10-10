@@ -1,0 +1,15 @@
+$main-color = #000000;
+
+_viewPhone {
+  background-color: $main-color;
+  title-insets: 5, 10, 5, 10;
+  > UIProgressView.tinted {
+    progress-tint-color: black;
+    track-tint-color: yellow;
+  }
+}
+
+/*
+^UIButton.warning, UIView.warning ^UIButton {
+  title-color[state:highlighted]: #e3e3e3;
+}*/

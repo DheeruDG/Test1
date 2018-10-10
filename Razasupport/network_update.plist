@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>order</key>
+	<array>
+		<string>Provide excellent call quality when your WiFi signal is strong.Use this option to save both your minutes and data plans great for roaming.</string>
+		<string>Provides excellent call quality using your cellular airtime minutes.</string>
+		<string>Save minutes using your data plan.call quality dependent on the signal strength of the data network.</string>
+	</array>
+	<key>name</key>
+	<array>
+		<string>Wi-Fi</string>
+		<string>Minutes</string>
+		<string>Data</string>
+	</array>
+	<key>valueof</key>
+	<array>
+		<string>1</string>
+		<string>1</string>
+		<string>1</string>
+	</array>
+</dict>
+</plist>
